@@ -1,0 +1,46 @@
+.wrapper{
+    width: 90%;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+        text-align: center;
+    }
+.logoimg1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        height: 300px;
+}
+h2, h3{
+    text-align: center;
+}
+.task-content h3 {
+    margin: 5px;
+}
+.task-content, .button {
+    text-align: center;
+}
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    margin-top: 15px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+    margin: 15px;
+}
+input {
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+    height: 10px;
+    width: 300px;
+}
